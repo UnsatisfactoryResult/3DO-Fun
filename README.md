@@ -1,3 +1,3 @@
-# Sanyo-Try-IMP-21J-3DO-Info
+# 3DO-Fun
 
-There's not much in here yet, other than a capacitor map.
+There's not much in here yet, other than a capacitor map for the Sanyo Try.
