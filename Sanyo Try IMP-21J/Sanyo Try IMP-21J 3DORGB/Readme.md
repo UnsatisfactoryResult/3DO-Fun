@@ -1,5 +1,7 @@
 I'm using my own no-cut mini DIN mount that requires the removal of the original S Video and RCA AV outputs. The mini DIN mounts in place of the S Video out, and the 240P switch mounts in place of the composite video out. If you don't mind cutting the case, you can just mount the mini DIN to the RF module location on the main board, and drill a hole through. This model had a provision for the module on the pcb itself, but it was never populated, nor was the case drilled for it.
 
+Follow along with the pictures.
+
 As for the actual install, it's very straightforward, but requiers fairly advanced soldering skills for the flex cable.
 * Solder the flex to the GPU. This is very fine pitch soldering, and is not beginner friendly at all.
 * With the flex soldered in place, triple check that there are no bridges. If you don't have a microscope you can take well lit pictures and zoom in. Do not skip this step.
@@ -15,7 +17,7 @@ As for the actual install, it's very straightforward, but requiers fairly advanc
 * Leave one pin of the switch floating, not connected to anything. This is your 240P position.
 * The other pin of the switch needs to be run to ground. This is your 480i position.
 
-If you're using my no-cut miniDIN and switch mount, there are a few notes.
+If you're using my no-cut miniDIN and switch mount, there are a few notes. I will have some for sale in my shop when I get the rest of things in to fully test.
 * Remove the RCA/S Video connector. It locks in place under the S Video connector, and it's difficult to remove here. I suggest melting the solder and trying to squeeze these locking tabs in a bit. Otherwise it is fairly easy to damage these pads as can be seen from my pictures. If these pads do get damaged, it's not a big deal. Take your time here.
 * Clean up any residual solder and flux at this point.
 * We are mounting the miniDIN upside down right over the S Video connection, so we need to put some kapton tape down to isolate everything.
